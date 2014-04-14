@@ -1,0 +1,5 @@
+<map id="pagmo::util::discrepancy::base" name="pagmo::util::discrepancy::base">
+<area shape="rect" id="node2" href="$classpagmo_1_1util_1_1discrepancy_1_1faure.html" title="Faure quasi&#45;random point sequence." alt="" coords="219,5,383,46"/>
+<area shape="rect" id="node3" href="$classpagmo_1_1util_1_1discrepancy_1_1halton.html" title="Halton quasi&#45;random point sequence." alt="" coords="219,70,383,111"/>
+<area shape="rect" id="node4" href="$classpagmo_1_1util_1_1discrepancy_1_1simplex.html" title="Halton sequence projected on a simplex." alt="" coords="219,135,383,177"/>
+</map>

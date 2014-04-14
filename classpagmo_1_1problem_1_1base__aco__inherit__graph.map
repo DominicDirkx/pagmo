@@ -1,0 +1,5 @@
+<map id="pagmo::problem::base_aco" name="pagmo::problem::base_aco">
+<area shape="rect" id="node3" href="$classpagmo_1_1problem_1_1knapsack.html" title="N&#45;dimensional knapsack problem." alt="" coords="5,155,184,181"/>
+<area shape="rect" id="node4" href="$classpagmo_1_1problem_1_1tsp.html" title="Traveling salesman problem." alt="" coords="208,155,349,181"/>
+<area shape="rect" id="node2" href="$classpagmo_1_1problem_1_1base.html" title="Base problem class." alt="" coords="111,5,261,32"/>
+</map>
